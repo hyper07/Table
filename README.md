@@ -1,4 +1,4 @@
-# Table
+# Table Library
 
 ## Development environment and languages
 - Javascript;
@@ -12,6 +12,7 @@
 - Filters
 - Grouping
 - Pivoting & Aggregation
+- Much easier than SharePoint default view for sorting, grouping, and filtering.
 
 
 ## Preview
